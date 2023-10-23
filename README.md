@@ -4,13 +4,13 @@
 <p>群: 123300273(入群获取sql文件)</p>
 <p>QQ: 1095737364(加好友获取sql文件)</p>
 
-<p><h1 align="center">282.小区物业管理系统</h1></p>
+<p><h1 align="center">282.移动销售管理系统</h1></p>
 
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/springmvc-3.x-blue.svg"/>
+    <img src="https://img.shields.aio/badge/springmvc-3.x-blue.svg"/>
     <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
     <img src="https://img.shields.io/badge/vue-5.x-green.svg"/>
 </p>
